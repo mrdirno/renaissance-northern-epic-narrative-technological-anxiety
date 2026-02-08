@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-epic-narrative-technological-anxiety",
+  "title": "The Iron Song Beneath the Ice",
+  "tagline": "In a frozen Renaissance world, a desperate captain races a closing sea to deliver the key to a celestial machine, confronting the cost of human ambition against an indifferent nature.",
+  "target_words": 79232,
+  "actual_words": 79232,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Human Ambition vs. Indifferent Nature",
+    "The Price of Technological Progress",
+    "The Anxiety of Obsolescence",
+    "Knowledge as Precious and Perilous Cargo"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Grinding Hum of a Closing Sea",
+      "words": 6602
+    },
+    {
+      "ch": 2,
+      "title": "A Lead of Open, Black Water",
+      "words": 6602
+    },
+    {
+      "ch": 3,
+      "title": "The Wall of Sheer Black Cliffs",
+      "words": 6602
+    },
+    {
+      "ch": 4,
+      "title": "The Silence After the Scream",
+      "words": 6602
+    },
+    {
+      "ch": 5,
+      "title": "A Dirge in Ancient Metal",
+      "words": 6602
+    },
+    {
+      "ch": 6,
+      "title": "The Wound That Swallows",
+      "words": 6602
+    },
+    {
+      "ch": 7,
+      "title": "A Beacon in the Closing Storm",
+      "words": 6602
+    },
+    {
+      "ch": 8,
+      "title": "The Still, Hollow Cold",
+      "words": 6602
+    },
+    {
+      "ch": 9,
+      "title": "The Beautiful Ruin",
+      "words": 6602
+    },
+    {
+      "ch": 10,
+      "title": "A Fractured Puzzle of Leads",
+      "words": 6602
+    },
+    {
+      "ch": 11,
+      "title": "The Crystalline Chime of Letting Go",
+      "words": 6602
+    },
+    {
+      "ch": 12,
+      "title": "The Iron Song Beneath the Ice",
+      "words": 6602
+    }
+  ]
+}
